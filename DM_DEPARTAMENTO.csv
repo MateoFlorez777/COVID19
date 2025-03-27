@@ -1,0 +1,938 @@
+IDDPTO,NOMBRE
+11,Bogotá D.C.
+76,Valle del Cauca
+5,Antioquia
+5,Antioquia
+13,Cartagena D.T. y C.
+41,Huila
+76,Valle del Cauca
+50,Meta
+5,Antioquia
+76,Valle del Cauca
+66,Risaralda
+54,Norte de Santander
+17,Caldas
+25,Cundinamarca
+25,Cundinamarca
+8,Barranquilla D.E.
+68,Santander
+63,Quindío
+66,Risaralda
+25,Cundinamarca
+73,Tolima
+68,Santander
+19,Cauca
+17,Caldas
+25,Cundinamarca
+5,Antioquia
+5,Antioquia
+47,Santa Marta D.T. y C.
+25,Cundinamarca
+25,Cundinamarca
+54,Norte de Santander
+76,Valle del Cauca
+76,Valle del Cauca
+5,Antioquia
+5,Antioquia
+63,Quindío
+20,Cesar
+17,Caldas
+17,Caldas
+88,Archipiélago de San Andrés Providencia y Santa Catalina
+85,Casanare
+5,Antioquia
+25,Cundinamarca
+5,Antioquia
+17,Caldas
+76,Valle del Cauca
+25,Cundinamarca
+5,Antioquia
+5,Antioquia
+5,Antioquia
+52,Nariño
+54,Norte de Santander
+25,Cundinamarca
+76,Valle del Cauca
+25,Cundinamarca
+25,Cundinamarca
+25,Cundinamarca
+41,Huila
+76,Valle del Cauca
+76,Valle del Cauca
+25,Cundinamarca
+76,Valle del Cauca
+8,Atlántico
+76,Valle del Cauca
+15,Boyacá
+5,Antioquia
+15,Boyacá
+25,Cundinamarca
+8,Atlántico
+23,Córdoba
+52,Nariño
+8,Atlántico
+25,Cundinamarca
+5,Antioquia
+63,Quindío
+5,Antioquia
+13,Bolívar
+70,Sucre
+5,Antioquia
+5,Antioquia
+23,Córdoba
+15,Boyacá
+13,Bolívar
+25,Cundinamarca
+47,Magdalena
+52,Nariño
+44,La Guajira
+25,Cundinamarca
+54,Norte de Santander
+15,Boyacá
+52,Nariño
+76,Valle del Cauca
+19,Cauca
+63,Quindío
+63,Quindío
+17,Caldas
+5,Antioquia
+5,Antioquia
+25,Cundinamarca
+5,Antioquia
+76,Valle del Cauca
+25,Cundinamarca
+76,Buenaventura D.E.
+50,Meta
+68,Santander
+25,Cundinamarca
+5,Antioquia
+19,Cauca
+8,Atlántico
+8,Atlántico
+8,Atlántico
+23,Córdoba
+66,Risaralda
+63,Quindío
+19,Cauca
+76,Valle del Cauca
+5,Antioquia
+15,Boyacá
+76,Valle del Cauca
+76,Valle del Cauca
+15,Boyacá
+15,Boyacá
+25,Cundinamarca
+52,Nariño
+52,Nariño
+52,Nariño
+54,Norte de Santander
+68,Santander
+68,Santander
+68,Santander
+73,Tolima
+15,Boyacá
+19,Cauca
+20,Cesar
+76,Valle del Cauca
+25,Cundinamarca
+5,Antioquia
+76,Valle del Cauca
+25,Cundinamarca
+15,Boyacá
+23,Córdoba
+23,Córdoba
+25,Cundinamarca
+41,Huila
+41,Huila
+41,Huila
+27,Chocó
+76,Valle del Cauca
+76,Valle del Cauca
+76,Valle del Cauca
+47,Magdalena
+8,Atlántico
+8,Atlántico
+5,Antioquia
+73,Tolima
+13,Bolívar
+5,Antioquia
+20,Cesar
+66,Risaralda
+5,Antioquia
+5,Antioquia
+52,Nariño
+19,Cauca
+47,Magdalena
+13,Bolívar
+91,Amazonas
+5,Antioquia
+18,Caquetá
+41,Huila
+41,Huila
+41,Huila
+41,Huila
+41,Huila
+41,Huila
+76,Valle del Cauca
+15,Boyacá
+41,Huila
+25,Cundinamarca
+13,Bolívar
+27,Chocó
+50,Meta
+23,Córdoba
+8,Atlántico
+25,Cundinamarca
+25,Cundinamarca
+68,Santander
+5,Antioquia
+13,Bolívar
+76,Valle del Cauca
+20,Cesar
+52,Nariño
+19,Cauca
+20,Cesar
+20,Cesar
+41,Huila
+47,Magdalena
+20,Cesar
+20,Cesar
+19,Cauca
+76,Valle del Cauca
+8,Atlántico
+54,Norte de Santander
+73,Tolima
+52,Nariño
+41,Huila
+52,Nariño
+50,Meta
+85,Casanare
+41,Huila
+19,Cauca
+76,Valle del Cauca
+17,Caldas
+44,La Guajira
+44,La Guajira
+44,La Guajira
+41,Huila
+17,Caldas
+15,Boyacá
+15,Boyacá
+8,Atlántico
+15,Boyacá
+23,Córdoba
+15,Boyacá
+15,Boyacá
+15,Boyacá
+52,Nariño
+52,Nariño
+41,Huila
+52,Nariño
+76,Valle del Cauca
+54,Norte de Santander
+54,Norte de Santander
+54,Norte de Santander
+17,Caldas
+17,Caldas
+20,Cesar
+20,Cesar
+8,Atlántico
+44,La Guajira
+25,Cundinamarca
+91,Amazonas
+13,Bolívar
+15,Boyacá
+19,Cauca
+13,Bolívar
+76,Valle del Cauca
+17,Caldas
+50,Meta
+5,Antioquia
+52,Nariño
+8,Atlántico
+15,Boyacá
+25,Cundinamarca
+25,Cundinamarca
+13,Bolívar
+25,Cundinamarca
+70,Sucre
+8,Atlántico
+23,Córdoba
+68,Santander
+17,Caldas
+25,Cundinamarca
+86,Putumayo
+52,Nariño
+15,Boyacá
+54,Norte de Santander
+73,Tolima
+44,La Guajira
+70,Sucre
+41,Huila
+15,Boyacá
+13,Bolívar
+63,Quindío
+15,Boyacá
+5,Antioquia
+52,Nariño
+15,Boyacá
+47,Magdalena
+52,Nariño
+86,Putumayo
+88,Archipiélago de San Andrés Providencia y Santa Catalina
+73,Tolima
+76,Valle del Cauca
+81,Arauca
+17,Caldas
+5,Antioquia
+27,Chocó
+54,Norte de Santander
+50,Meta
+97,Vaupés
+47,Magdalena
+85,Casanare
+15,Boyacá
+15,Boyacá
+15,Boyacá
+18,Caquetá
+8,Atlántico
+63,Quindío
+19,Cauca
+5,Antioquia
+50,Meta
+13,Bolívar
+25,Cundinamarca
+19,Cauca
+44,La Guajira
+52,Nariño
+86,Putumayo
+5,Antioquia
+41,Huila
+47,Magdalena
+47,Magdalena
+73,Tolima
+5,Antioquia
+25,Cundinamarca
+15,Boyacá
+17,Caldas
+44,La Guajira
+15,Boyacá
+15,Boyacá
+50,Meta
+25,Cundinamarca
+25,Cundinamarca
+8,Atlántico
+47,Magdalena
+8,Atlántico
+73,Tolima
+68,Santander
+15,Boyacá
+27,Chocó
+27,Chocó
+27,Chocó
+73,Tolima
+20,Cesar
+15,Boyacá
+27,Chocó
+27,Chocó
+27,Chocó
+8,Atlántico
+25,Cundinamarca
+70,Sucre
+73,Tolima
+13,Bolívar
+27,Chocó
+23,Córdoba
+5,Antioquia
+8,Atlántico
+41,Huila
+15,Boyacá
+52,Nariño
+73,Tolima
+19,Cauca
+8,Atlántico
+27,Chocó
+15,Boyacá
+20,Cesar
+20,Cesar
+50,Meta
+15,Boyacá
+25,Cundinamarca
+25,Cundinamarca
+25,Cundinamarca
+25,Cundinamarca
+25,Cundinamarca
+25,Cundinamarca
+85,Casanare
+25,Cundinamarca
+86,Putumayo
+86,Putumayo
+86,Putumayo
+20,Cesar
+52,Nariño
+52,Nariño
+47,Magdalena
+5,Antioquia
+15,Boyacá
+25,Cundinamarca
+54,Norte de Santander
+76,Valle del Cauca
+8,Atlántico
+70,Sucre
+70,Sucre
+52,Nariño
+15,Boyacá
+15,Boyacá
+25,Cundinamarca
+25,Cundinamarca
+5,Antioquia
+25,Cundinamarca
+27,Chocó
+27,Chocó
+25,Cundinamarca
+73,Tolima
+66,Risaralda
+13,Bolívar
+13,Bolívar
+13,Bolívar
+25,Cundinamarca
+5,Antioquia
+94,Guainía
+86,Putumayo
+25,Cundinamarca
+99,Vichada
+15,Boyacá
+52,Nariño
+5,Antioquia
+25,Cundinamarca
+25,Cundinamarca
+20,Cesar
+44,La Guajira
+47,Magdalena
+19,Cauca
+25,Cundinamarca
+52,Nariño
+52,Nariño
+76,Valle del Cauca
+19,Cauca
+5,Antioquia
+47,Magdalena
+68,Santander
+5,Antioquia
+5,Antioquia
+52,Nariño
+52,Nariño
+52,Nariño
+52,Nariño
+52,Nariño
+27,Chocó
+23,Córdoba
+70,Sucre
+68,Santander
+25,Cundinamarca
+17,Caldas
+68,Santander
+13,Bolívar
+52,Nariño
+23,Córdoba
+23,Córdoba
+44,La Guajira
+19,Cauca
+25,Cundinamarca
+15,Boyacá
+52,Nariño
+27,Chocó
+5,Antioquia
+5,Antioquia
+25,Cundinamarca
+13,Bolívar
+50,Meta
+52,Nariño
+52,Nariño
+76,Valle del Cauca
+54,Norte de Santander
+5,Antioquia
+15,Boyacá
+86,Putumayo
+70,Sucre
+25,Cundinamarca
+70,Sucre
+81,Arauca
+17,Caldas
+23,Córdoba
+23,Córdoba
+25,Cundinamarca
+25,Cundinamarca
+52,Nariño
+52,Nariño
+44,La Guajira
+8,Atlántico
+23,Córdoba
+15,Boyacá
+25,Cundinamarca
+25,Cundinamarca
+41,Huila
+76,Valle del Cauca
+5,Antioquia
+70,Sucre
+5,Antioquia
+68,Santander
+23,Córdoba
+95,Guaviare
+25,Cundinamarca
+52,Nariño
+52,Nariño
+52,Nariño
+27,Chocó
+23,Córdoba
+41,Huila
+68,Santander
+5,Antioquia
+5,Antioquia
+5,Antioquia
+25,Cundinamarca
+25,Cundinamarca
+54,Norte de Santander
+54,Norte de Santander
+5,Antioquia
+23,Córdoba
+52,Nariño
+13,Bolívar
+70,Sucre
+52,Nariño
+52,Nariño
+20,Cesar
+47,Magdalena
+27,Chocó
+70,Sucre
+70,Sucre
+52,Nariño
+73,Tolima
+76,Valle del Cauca
+19,Cauca
+70,Sucre
+25,Cundinamarca
+68,Santander
+70,Sucre
+73,Tolima
+25,Cundinamarca
+5,Antioquia
+68,Santander
+68,Santander
+97,Vaupés
+73,Tolima
+70,Sucre
+52,Nariño
+25,Cundinamarca
+5,Antioquia
+15,Boyacá
+70,Sucre
+23,Córdoba
+5,Antioquia
+81,Arauca
+5,Antioquia
+27,Chocó
+5,Antioquia
+73,Tolima
+20,Cesar
+68,Santander
+25,Cundinamarca
+73,Tolima
+47,Magdalena
+13,Bolívar
+13,Bolívar
+5,Antioquia
+25,Cundinamarca
+23,Córdoba
+52,Nariño
+20,Cesar
+73,Tolima
+27,Chocó
+54,Norte de Santander
+20,Cesar
+23,Córdoba
+70,Sucre
+70,Sucre
+23,Córdoba
+81,Arauca
+66,Risaralda
+23,Córdoba
+23,Córdoba
+54,Norte de Santander
+19,Cauca
+19,Cauca
+13,Bolívar
+25,Cundinamarca
+85,Casanare
+76,Valle del Cauca
+47,Magdalena
+70,Sucre
+23,Córdoba
+23,Córdoba
+13,Bolívar
+13,Bolívar
+70,Sucre
+25,Cundinamarca
+20,Cesar
+17,Caldas
+54,Norte de Santander
+70,Sucre
+25,Cundinamarca
+13,Bolívar
+94,Guainía
+94,Guainía
+94,Guainía
+20,Cesar
+5,Antioquia
+19,Cauca
+13,Bolívar
+23,Córdoba
+85,Casanare
+52,Nariño
+50,Meta
+97,Vaupés
+5,Antioquia
+54,Norte de Santander
+70,Sucre
+47,Magdalena
+25,Cundinamarca
+70,Sucre
+68,Santander
+15,Boyacá
+15,Boyacá
+5,Antioquia
+25,Cundinamarca
+25,Cundinamarca
+19,Cauca
+73,Tolima
+66,Risaralda
+20,Cesar
+70,Sucre
+70,Sucre
+76,Valle del Cauca
+47,Magdalena
+47,Magdalena
+25,Cundinamarca
+19,Cauca
+76,Valle del Cauca
+5,Antioquia
+25,Cundinamarca
+5,Antioquia
+27,Chocó
+5,Antioquia
+66,Risaralda
+68,Santander
+68,Santander
+20,Cesar
+5,Antioquia
+13,Bolívar
+13,Bolívar
+13,Bolívar
+15,Boyacá
+19,Cauca
+20,Cesar
+54,Norte de Santander
+85,Casanare
+52,Nariño
+5,Antioquia
+27,Chocó
+5,Antioquia
+68,Santander
+68,Santander
+25,Cundinamarca
+86,Putumayo
+54,Norte de Santander
+5,Antioquia
+19,Cauca
+52,Nariño
+27,Chocó
+15,Boyacá
+23,Córdoba
+5,Antioquia
+52,Nariño
+52,Nariño
+66,Risaralda
+25,Cundinamarca
+5,Antioquia
+13,Bolívar
+5,Antioquia
+15,Boyacá
+5,Antioquia
+5,Antioquia
+66,Risaralda
+44,La Guajira
+44,La Guajira
+91,Amazonas
+68,Santander
+68,Santander
+47,Magdalena
+44,La Guajira
+18,Caquetá
+18,Caquetá
+50,Meta
+68,Santander
+5,Antioquia
+19,Cauca
+5,Antioquia
+5,Antioquia
+19,Cauca
+68,Santander
+25,Cundinamarca
+5,Antioquia
+5,Antioquia
+68,Santander
+18,Caquetá
+50,Meta
+18,Caquetá
+15,Boyacá
+15,Boyacá
+91,Amazonas
+54,Norte de Santander
+5,Antioquia
+5,Antioquia
+13,Bolívar
+27,Chocó
+68,Santander
+18,Caquetá
+5,Antioquia
+68,Santander
+5,Antioquia
+15,Boyacá
+68,Santander
+73,Tolima
+86,Putumayo
+23,Córdoba
+13,Bolívar
+52,Nariño
+5,Antioquia
+5,Antioquia
+13,Bolívar
+15,Boyacá
+23,Córdoba
+25,Cundinamarca
+54,Norte de Santander
+5,Antioquia
+25,Cundinamarca
+5,Antioquia
+5,Antioquia
+5,Antioquia
+5,Antioquia
+68,Santander
+5,Antioquia
+5,Antioquia
+54,Norte de Santander
+20,Cesar
+85,Casanare
+73,Tolima
+41,Huila
+25,Cundinamarca
+25,Cundinamarca
+91,Amazonas
+18,Caquetá
+5,Antioquia
+13,Bolívar
+5,Antioquia
+5,Antioquia
+73,Tolima
+50,Meta
+52,Nariño
+68,Santander
+73,Tolima
+73,Tolima
+5,Antioquia
+68,Santander
+73,Tolima
+5,Antioquia
+41,Huila
+5,Antioquia
+5,Antioquia
+5,Antioquia
+5,Antioquia
+41,Huila
+13,Bolívar
+25,Cundinamarca
+25,Cundinamarca
+68,Santander
+15,Boyacá
+13,Bolívar
+47,Magdalena
+15,Boyacá
+15,Boyacá
+5,Antioquia
+47,Magdalena
+47,Magdalena
+25,Cundinamarca
+50,Meta
+5,Antioquia
+15,Boyacá
+17,Caldas
+18,Caquetá
+47,Magdalena
+85,Casanare
+86,Putumayo
+99,Vichada
+76,Valle del Cauca
+73,Tolima
+41,Huila
+68,Santander
+5,Antioquia
+5,Antioquia
+18,Caquetá
+54,Norte de Santander
+66,Risaralda
+13,Bolívar
+73,Tolima
+5,Antioquia
+47,Magdalena
+15,Boyacá
+18,Caquetá
+25,Cundinamarca
+18,Caquetá
+18,Caquetá
+5,Antioquia
+27,Chocó
+19,Cauca
+52,Nariño
+73,Tolima
+76,Valle del Cauca
+19,Cauca
+68,Santander
+17,Caldas
+68,Santander
+54,Norte de Santander
+19,Cauca
+47,Magdalena
+86,Putumayo
+15,Boyacá
+85,Casanare
+13,Bolívar
+50,Meta
+5,Antioquia
+68,Santander
+68,Santander
+27,Chocó
+54,Norte de Santander
+54,Norte de Santander
+41,Huila
+25,Cundinamarca
+25,Cundinamarca
+19,Cauca
+76,Valle del Cauca
+63,Quindío
+68,Santander
+19,Cauca
+17,Caldas
+19,Cauca
+5,Antioquia
+41,Huila
+5,Antioquia
+15,Boyacá
+54,Norte de Santander
+17,Caldas
+25,Cundinamarca
+41,Huila
+41,Huila
+5,Antioquia
+15,Boyacá
+73,Tolima
+15,Boyacá
+54,Norte de Santander
+63,Quindío
+68,Santander
+95,Guaviare
+13,Bolívar
+66,Risaralda
+68,Santander
+68,Santander
+25,Cundinamarca
+68,Santander
+63,Quindío
+73,Tolima
+52,Nariño
+13,Bolívar
+41,Huila
+15,Boyacá
+41,Huila
+17,Caldas
+52,Nariño
+41,Huila
+18,Caquetá
+50,Meta
+85,Casanare
+15,Boyacá
+5,Antioquia
+44,La Guajira
+68,Santander
+73,Tolima
+52,Nariño
+68,Santander
+73,Tolima
+15,Boyacá
+76,Valle del Cauca
+54,Norte de Santander
+73,Tolima
+47,Magdalena
+18,Caquetá
+54,Norte de Santander
+68,Santander
+13,Bolívar
+15,Boyacá
+73,Tolima
+15,Boyacá
+18,Caquetá
+68,Santander
+41,Huila
+25,Cundinamarca
+25,Cundinamarca
+73,Tolima
+13,Bolívar
+95,Guaviare
+13,Bolívar
+5,Antioquia
+5,Antioquia
+68,Santander
+41,Huila
+15,Boyacá
+5,Antioquia
+68,Santander
+73,Tolima
+68,Santander
+15,Boyacá
+52,Nariño
+81,Arauca
+15,Boyacá
+68,Santander
+68,Santander
+91,Amazonas
+47,Magdalena
+68,Santander
+73,Tolima
+47,Magdalena
+19,Cauca
+68,Santander
+5,Antioquia
+15,Boyacá
+17,Caldas
+52,Nariño
+54,Norte de Santander
+73,Tolima
+54,Norte de Santander
+54,Norte de Santander
+54,Norte de Santander
+68,Santander
+5,Antioquia
+41,Huila
+5,Antioquia
+47,Magdalena
+5,Antioquia
+19,Cauca
+25,Cundinamarca
+73,Tolima
+13,Bolívar
+73,Tolima
+5,Antioquia
+68,Santander
+76,Valle del Cauca
+5,Antioquia
+50,Meta
+19,Cauca

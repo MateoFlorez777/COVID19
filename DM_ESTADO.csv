@@ -1,0 +1,7 @@
+NOMBRE,IDESTADO
+Leve,1
+Asintomático,2
+Fallecido,3
+NA,4
+Moderado,5
+Grave,6
