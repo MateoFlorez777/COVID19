@@ -114,10 +114,14 @@ del data['TIPO']
 
 data['FECHA']=pd.to_datetime(data['FECHA'])
 DM_FECHA=pd.DataFrame(data['FECHA'].dt.strftime("%Y-%m-%d"))
+DM_FECHA['MES']=data['FECHA'].dt.strftime("%m")
+DM_FECHA['ANUAL']=data['FECHA'].dt.strftime("%Y")
+DM_FECHA['DIA']=data['FECHA'].dt.strftime("%d")
 DM_FECHA.drop_duplicates(inplace=True)
 DM_FECHA.columns=DM_FECHA.columns.str.replace('FECHA','NOMBRE')
+
 DM_FECHA['IDFECHA']=range(1,len(DM_FECHA)+1)
-DM_FECHA=DM_FECHA[['IDFECHA','NOMBRE']]
+DM_FECHA=DM_FECHA[['IDFECHA','NOMBRE', 'ANUAL', 'MES', 'DIA']]
 
 
 #GENERAR ARCHIVOS .CSV
