@@ -1,4 +1,4 @@
-NOMBRE,IDTIPO
-Importado,1
-Relacionado,2
-En estudio,3
+IDTIPO,NOMBRE
+1,Importado
+2,Relacionado
+3,En estudio

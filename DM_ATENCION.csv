@@ -1,7 +1,7 @@
-NOMBRE,IDATENCION
-Recuperado,1
-Fallecido,2
-VACIO,3
-Casa,4
-Hospital UCI,5
-Hospital,6
+IDATENCION,NOMBRE
+1,Recuperado
+2,Fallecido
+3,VACIO
+4,Casa
+5,Hospital UCI
+6,Hospital
